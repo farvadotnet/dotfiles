@@ -1,6 +1,5 @@
 #! /bin/sh
 
-cp ~/.tmux.conf ./dotfiles/tmux/tmux.conf
-cd dotfiles
-git commit
+cp ~/.tmux.conf ./tmux/tmux.conf
+git commit -a -m "Scripted update."
 git push
