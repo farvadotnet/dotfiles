@@ -1,0 +1,4 @@
+#!/bin/bash
+
+alias dvtm="dvtm -m ^a"
+alias vtmux="dtach -A /tmp/dvtm -r winch -z -e ^s dvtm -m ^a" 
