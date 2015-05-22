@@ -1,0 +1,4 @@
+" Add josh's .vim folder to the path
+let &rtp .= ','.expand('~josh/.vim')
+
+source ~josh/.vimrc

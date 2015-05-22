@@ -1,0 +1,20 @@
+#Backlight Down
+"xbacklight -dec 5"
+  control+F6 
+    F6 
+ 
+#Backlight Up
+"xbacklight -inc 5"
+  control+F7
+ 
+#Mute
+"amixer set Master toggle"
+ control+F8
+ 
+#Decrease Volume
+"amixer set Master 5- unmute"
+ control+F9
+ 
+#Increase Volume
+"amixer set Master 5+ unmute"
+ control+F10
