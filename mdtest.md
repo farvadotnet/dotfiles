@@ -1,4 +1,5 @@
-# Probatio Pennae¹
+Probatio Pennae¹
+================
 
 Is spellcheck a distraction? Probably. It's best suited for stupid, lazy students who truly could not care less. Nonetheless, it is a technically brilliant invention² that took a herculean effort to implement in the early days of electronic word processing. 
 ```
