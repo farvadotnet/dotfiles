@@ -13,3 +13,23 @@ Anglish:    Have all fowl begun nests, besides I and thou? What bide we now?
 3. Or possibly Old English.
 
 
+
+Sprachbund
+==========
+
+A sprachbund (German for "band of languages") is a group of languages that share common features due to geographical proximity. Languages in a sprachbund are not necessarily related but nonetheless end up intermingling and converge towards mutual intelligibility, at least temporarily.
+
+West Germanic Sprachbund:
+-------------------------
+
+Dutch:   Heb je plannen voor de zomer?
+English: Have you plans for the summer?
+
+Frisian: Bûter, brea, en griene tsiis is goed Ingelsk en goed Frysk.
+English: Butter, bread, and green cheese is good English and good Frise.
+
+German:  Wo ist die Toilette?
+English: Where is the toilet?
+
+
+
