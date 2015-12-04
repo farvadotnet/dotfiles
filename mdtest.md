@@ -21,7 +21,7 @@ A sprachbund (German for "band of languages") is a group of languages that share
 
 West Germanic Sprachbund:
 -------------------------
-
+```
 Dutch:   Heb je plannen voor de zomer?
 English: Have you plans for the summer?
 
@@ -30,6 +30,5 @@ English: Butter, bread, and green cheese is good English and good Frise.
 
 German:  Wo ist die Toilette?
 English: Where is the toilet?
-
-
+```
 
